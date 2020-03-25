@@ -1,4 +1,4 @@
-data_index: data/coco/index.p
+data_index: coco/dataset/index.p
 batch_size: 8
 init_batches: 4
 spatial_size: 256
